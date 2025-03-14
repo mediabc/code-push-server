@@ -34,12 +34,12 @@ CodePush Server is a CodePush progam server! microsoft CodePush cloud is slow in
 ### shell login
 
 ```shell
-$ code-push login http://api.code-push.com #登录
+$ code-push login http://api.code-push.com #login
 ```
 
 ### [web](http://www.code-push.com) 
 
-访问：http://www.code-push.com
+Visit: http://www.code-push.com
 
 ### client eg.
 
